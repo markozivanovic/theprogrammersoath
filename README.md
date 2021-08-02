@@ -1,3 +1,5 @@
+[Link to the website](https://theprogrammersoath.com)
+
 # What's this whole thing about?
 
 I was reading a Wikipedia article about the Hippocratic Oath one day, and having read both the original version and the modern adaptations, I wanted to write something for programmers based on it. The translation of the original sounded so epic, so I based the text of the programmer’s oath on that version.
